@@ -4,7 +4,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 module.exports = {
     entry: {
         bundle: [
-            './src/js/app.jsx'
+            './src/js/app.js'
         ]
     },
     output: {

@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TestComponent from './testComponent';
- 
+import MapComponent from './mapComponent';
+
 ReactDOM.render(
-  <TestComponent />,
+  <MapComponent />,
   document.getElementById('react-container')
 );
